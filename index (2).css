@@ -63,22 +63,22 @@
      line-height: 1.5;
 }
 
-.theme-darkorchid red {
+.theme-red {
    background: red;
    color: #ffffff;
 }
 
-.theme-darkviolet yellow {
+.theme-yellow {
    background: yellow;
    color: #ffffff;
 }
 
-.theme-orchid blue {
+.theme-blue {
    background: blue;
    color: #ffffff;
 }
 
-.theme-violet velvet {
+.theme-velvet {
    background: velvet;
    color: #ffffff;
 }
